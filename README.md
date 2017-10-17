@@ -1,4 +1,4 @@
-# AmazingImageSequenceRecogtion
+# Scene-Text-Understanding
 
 ## Survey
 
