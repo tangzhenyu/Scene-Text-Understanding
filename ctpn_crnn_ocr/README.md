@@ -14,10 +14,8 @@ Connectionist Text Proposal Network, ECCV, 2016.](https://arxiv.org/abs/1609.036
 - caffe dependency
 
 ## download pretrained model:
-  
-  copy ctpn_trained_model.caffemodel to ./CTPN.models
-  
-  copy crnn_trained_model.pth to ./crnn/samples
+- download model from 链接: https://pan.baidu.com/s/1bp8PJBL 密码: qvsj , then copy ctpn_trained_model.caffemodel to ./CTPN.models
+- download model from 链接: https://pan.baidu.com/s/1pLmgAvx 密码: a5pq , then copy crnn_trained_model.pth to ./crnn/samples
    
 # You can run demo:
 
