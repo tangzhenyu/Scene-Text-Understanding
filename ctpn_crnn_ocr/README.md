@@ -11,7 +11,7 @@ Connectionist Text Proposal Network, ECCV, 2016.](https://arxiv.org/abs/1609.036
 
 ## Data:
 - Text detection model are downloaded from [CTPN](https://github.com/tianzhi0549/CTPN)
-- Generate chinese character use code of SynthText_Chinese to training crnn model.
+- Using generated chinese character by using [code](https://github.com/tangzhenyu/Scene-Text-Understanding/tree/master/SynthText_Chinese) to train crnn model.
 
 ## Required:
 - pytorch
