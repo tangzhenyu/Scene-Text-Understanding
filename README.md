@@ -242,7 +242,9 @@
 - Convolutional Recurrent Neural Network,</span><span style="background:#F2EDE1">Torch7 based [</span><a target="_blank" target="_blank" href="https://github.com/bgshih/crnn"><span style="background:#F2EDE1">code</span></a><span style="background:#F2EDE1">]</span></p>
 - Attention-OCR</span><span style="background:#F2EDE1">: Visual Attention based OCR [</span><a target="_blank" target="_blank" href="https://github.com/da03/Attention-OCR"><span style="background:#F2EDE1">code</span></a><span style="background:#F2EDE1">]</span></p>
 - Umaru</span><span style="background:#F2EDE1">: An OCR-system based on torch using the technique of LSTM/GRU-RNN, CTC and referred to the works of rnnlib and clstm [</span><a target="_blank" target="_blank" href="https://github.com/edward-zhu/umaru"><span style="background:#F2EDE1">code</span></a><span style="background:#F2EDE1">]</span></p>
-
+- AKSHAYUBHAT/DeepVideoAnalytics  (CTPN+CRNN) [code](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics/tree/master/notebooks/OCR)
+- ankush-me/SynthText [code](https://github.com/ankush-me/SynthText)
+- JarveeLee/SynthText_Chinese_version [code](https://github.com/JarveeLee/SynthText_Chinese_version)
 ### Other
 - DeepFont:Identify Your Font from An Image [[Paper]](http://arxiv.org/abs/1507.03196)
 
