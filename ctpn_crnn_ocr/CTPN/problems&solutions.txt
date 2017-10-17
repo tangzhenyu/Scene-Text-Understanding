@@ -1,0 +1,26 @@
+1:caffe installation
+
+  cython installation   sudo apt-get install cython
+2:cd code/ctpn/caffe 
+  make -j
+  <1>:if appear some problem related to hdf5,maybe can soluted by change hdf5 dir,like
+    # Whatever else you find you need goes here.
+    INCLUDE_DIRS := $(PYTHON_INCLUDE) /usr/local/include /usr/include/hdf5/serial
+    LIBRARY_DIRS := $(PYTHON_LIB) /usr/local/lib /usr/lib /usr/lib/x86_64-linux-gnu/ /usr/lib/   x86_64-linux-gnu/hdf5/serial 
+ 
+  make pycaffe 
+  
+ back to ctpn dir, and make   
+3: cd code/ctpn   python  ./tools/demo.py   --no-gpu  (cpu version)
+                       python  ./tools/demo.py             (gpu version)
+   <1>cv2 module not find 
+      solution:  sudo apt-get install libopencv-dev python-opencv
+   <2>No module named skimage.io
+      solution:  pip install  scikit-image
+   <3>No module named google.protobuf.internal
+      solution: sudo pip install --upgrade protobuf 
+   <4>No module named yaml
+      solution:sudo apt-get install python-yaml
+   <5>libcudnn.so.4 is not a symbolic link
+      export PATH=/usr/local/cuda/bin:$PATH'>> ~/.bashrc
+      echo 'export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH' >> ~/.bashrc
