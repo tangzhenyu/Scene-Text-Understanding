@@ -24,7 +24,9 @@ Connectionist Text Proposal Network, ECCV, 2016.](https://arxiv.org/abs/1609.036
 # You can run demo:
 
   python demo.py
-  
+
+# Tools:
+[https://github.com/clcarwin/convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch)  
   
 # Examples:
 
