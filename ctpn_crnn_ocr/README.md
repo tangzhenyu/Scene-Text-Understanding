@@ -23,3 +23,6 @@ Connectionist Text Proposal Network, ECCV, 2016.](https://arxiv.org/abs/1609.036
   
   
 # Examples:
+
+![Example Image](./01.jpg)
+![Example Image](./02.jpg)
