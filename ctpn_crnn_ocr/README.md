@@ -9,7 +9,11 @@ Connectionist Text Proposal Network, ECCV, 2016.](https://arxiv.org/abs/1609.036
 - [[github]](https://github.com/bgshih/crnn)
 - [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](http://arxiv.org/abs/1507.05717)
 
-##Required:
+## Data:
+- Text detection model are downloaded from [CTPN](https://github.com/tianzhi0549/CTPN)
+- Generate chinese character use code of SynthText_Chinese to training crnn model.
+
+## Required:
 - pytorch
 - caffe dependency
 
