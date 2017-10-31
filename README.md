@@ -10,56 +10,54 @@
 - [2017-ICCV]Single Shot TextDetector with Regional Attention [[Paper]](https://arxiv.org/pdf/1709.00138.pdf)
 - [2017-ICCV]WordSup: Exploiting Word Annotations for Character based Text Detection [[Paper]](https://arxiv.org/pdf/1708.06720.pdf)
 
-- [2017-arXiv]R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection[</span><a target="_blank" target="_blank" href="https://arxiv.org/ftp/arxiv/papers/1706/1706.09579.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
+- [2017-arXiv]R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection[[Paper]](https://arxiv.org/ftp/arxiv/papers/1706/1706.09579.pdf)
 
-- [2017-CVPR]EAST: An Efficient and Accurate Scene Text Detector [</span><a target="_blank" target="_blank" href="https://arxiv.org/abs/1704.03155"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]<span style="font-weight:bold; background:#F2EDE1">[</span><a target="_blank" href="https://github.com/argman/EAST"><span style="font-weight:bold; background:#F2EDE1">code</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></span></p>
-- [2017-arXiv]Cascaded Segmentation-Detection Networks for Word-Level Text Spotting[</span><a target="_blank" target="_blank" href="https://arxiv.org/abs/1704.00834"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span><br>
-- [2017-arXiv]Deep Direct Regression for Multi-Oriented Scene Text Detection[</span><a target="_blank" target="_blank" href="https://arxiv.org/pdf/1703.08289.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
-- [2017-CVPR]Detecting oriented text in natural images by linking segments [</span><a target="_blank" target="_blank" href="http://mc.eistar.net/UpLoadFiles/Papers/SegLink_CVPR17.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
-- [2017-CVPR]Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection[</span><a target="_blank" target="_blank" href="https://arxiv.org/pdf/1703.01425.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
-- [2017-arXiv]Arbitrary-Oriented Scene Text Detection via Rotation Proposals&nbsp;<span style="font-weight:bold; background:#F2EDE1">[</span><a target="_blank" target="_blank" href="https://arxiv.org/pdf/1703.01086.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></span></p>
-- [2017-AAAI]TextBoxes: A Fast Text Detector with a Single Deep Neural Network[</span><a target="_blank" target="_blank" href="https://arxiv.org/abs/1611.06779"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">][</span><a target="_blank" target="_blank" href="https://github.com/MhLiao/TextBoxes"><span style="font-weight:bold; background:#F2EDE1">code</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></span></p>
-<p style="margin:0in; font-family:&quot;Microsoft YaHei&quot;; color:rgb(0,0,153)"><span style="font-size:10px"><span style="font-weight:bold; background:rgb(242,237,225)"></span></span></p>
-<span style="font-size:10pt; background:rgb(242,237,225)"><strong></strong></span>
+- [2017-CVPR]EAST: An Efficient and Accurate Scene Text Detector [[Paper]](https://arxiv.org/abs/1704.03155) [[Code]](https://github.com/argman/EAST)
+- [2017-arXiv]Cascaded Segmentation-Detection Networks for Word-Level Text Spotting[[Paper]](https://arxiv.org/abs/1704.00834)
+- [2017-arXiv]Deep Direct Regression for Multi-Oriented Scene Text Detection [[Paper]](https://arxiv.org/pdf/1703.08289.pdf)
+
+- [2017-CVPR]Detecting oriented text in natural images by linking segments [[Paper]](http://mc.eistar.net/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
+- [2017-CVPR]Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [[Paper]](https://arxiv.org/pdf/1703.01425.pdf)
+- [2017-arXiv]Arbitrary-Oriented Scene Text Detection via Rotation Proposals [[Paper]](https://arxiv.org/pdf/1703.01086.pdf)
+
+- [2017-AAAI]TextBoxes: A Fast Text Detector with a Single Deep Neural Network[[Paper]](https://arxiv.org/abs/1611.06779)[[Code]](https://github.com/MhLiao/TextBoxes)
 <img src="http://img.blog.csdn.net/20170215165353667" alt=""><br>
 </span></p>
 
-- [2016-arXiv]Accurate Text Localization in Natural Image with Cascaded Convolutional TextNetwork&nbsp;[</span><a target="_blank" target="_blank" href="http://arxiv.org/abs/1603.09423"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
+- [2016-arXiv]Accurate Text Localization in Natural Image with Cascaded Convolutional TextNetwork&nbsp [[Paper]](http://arxiv.org/abs/1603.09423)
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112144835754" alt=""><br>
 </p>
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112144846696" alt=""><br>
 </p>
 
-- [2016-arXiv]DeepText : A Unified Framework for Text Proposal Generation and Text Detectionin Natural Images&nbsp;[</span><a target="_blank" target="_blank" href="http://arxiv.org/abs/1605.07314"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]
- [</span><a target="_blank" target="_blank" href="https://www.dropbox.com/s/06wfn5ugt5v3djs/SCUT_FORU_DB_Release.rar?dl=0"><span style="font-weight:bold; background:#F2EDE1">data</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
+- [2016-arXiv]DeepText : A Unified Framework for Text Proposal Generation and Text Detectionin Natural Images&nbsp [[Paper]](http://arxiv.org/abs/1605.07314) [[Data]](https://www.dropbox.com/s/06wfn5ugt5v3djs/SCUT_FORU_DB_Release.rar?dl=0)
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112144938619" alt=""><br>
 </p>
 
-- [2017-PR]TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [</span><a target="_blank" target="_blank" href="https://arxiv.org/pdf/1604.02619.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]&nbsp;[</span><a target="_blank" target="_blank" href="https://github.com/lluisgomez/TextProposals."><span style="font-weight:bold; background:#F2EDE1">code</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
+- [2017-PR]TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [[paper]](https://arxiv.org/pdf/1604.02619.pdf) [[code]](https://github.com/lluisgomez/TextProposals)
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112144944551" alt=""><br>
 </p>
 
-- [2016-arXiv] SceneText Detection via Holistic, Multi-Channel Prediction [</span><a target="_blank" target="_blank" href="https://arxiv.org/pdf/1606.09002.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
-<p style="margin:0in"><img src="http://img.blog.csdn.net/20161112145030473" alt=""><br>
+- [2016-arXiv] SceneText Detection via Holistic, Multi-Channel Prediction [[Paper]](https://arxiv.org/pdf/1606.09002.pdf)[[Code]](http://img.blog.csdn.net/20161112145030473)
 </p>
-- [2016-CVPR] CannyText Detector: Fast and Robust Scene Text Localization Algorithm [</span><a target="_blank" target="_blank" href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
+- [2016-CVPR] CannyText Detector: Fast and Robust Scene Text Localization Algorithm [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf)
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112145035824" alt=""><br>
 </p>
-- [2016-CVPR]Synthetic Data for Text Localisation in Natural Images&nbsp;[</span><a target="_blank" target="_blank" href="http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]&nbsp;[</span><a target="_blank" target="_blank" href="http://www.robots.ox.ac.uk/~vgg/data/scenetext/"><span style="font-weight:bold; background:#F2EDE1">data</span></a><span style="font-weight:bold; background:#F2EDE1">][</span><a target="_blank" target="_blank" href="https://github.com/ankush-me/SynthText"><span style="font-weight:bold; background:#F2EDE1">code</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
+- [2016-CVPR]Synthetic Data for Text Localisation in Natural Images[[Paper]](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16.pdf) [[Data]](http://www.robots.ox.ac.uk/~vgg/data/scenetext/) [[Code]](https://github.com/ankush-me/SynthText)
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112145117380" alt=""><br>
 </p>
-- [2016-ECCV]Detecting Text in Natural Image with Connectionist Text Proposal Network[</span><a target="_blank" target="_blank" href="https://arxiv.org/pdf/1609.03605v1.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">][</span><a target="_blank" target="_blank" href="http://textdet.com/"><span style="font-weight:bold; background:#F2EDE1">demo</span></a><span style="font-weight:bold; background:#F2EDE1">]<span style="font-weight:bold; background:#F2EDE1">[</span><a target="_blank" target="_blank" href="https://github.com/tianzhi0549/CTPN"><span style="font-weight:bold; background:#F2EDE1">code</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></span></p>
+- [2016-ECCV]Detecting Text in Natural Image with Connectionist Text Proposal Network[[Paper]](https://arxiv.org/pdf/1609.03605v1.pdf) [[Demo]](http://textdet.com/)[[Code]](https://github.com/tianzhi0549/CTPN)
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112145124544" alt=""><br>
 </p>
-- [2016-TIP]Text-Attentional Convolutional Neural Networks for Scene Text Detection&nbsp;[</span><a target="_blank" target="_blank" href="http://whuang.org/papers/the2016_tip.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
+- [2016-TIP]Text-Attentional Convolutional Neural Networks for Scene Text Detection[[Paper]](http://whuang.org/papers/the2016_tip.pdf)
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112145328516" alt=""><br>
 </p>
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112145334787" alt=""><br>
 </p>
-- [2016-IJDAR]TextCatcher: a method to detect curved and challenging text in natural scenes[</span><a target="_blank" target="_blank" href="http://rd.springer.com/article/10.1007/s10032-016-0264-4"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
+- [2016-IJDAR]TextCatcher: a method to detect curved and challenging text in natural scenes[[Paper]](http://rd.springer.com/article/10.1007/s10032-016-0264-4)
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112145732194" alt=""><br>
 </p>
-- [2016-CVPR]Multi-oriented text detection with fully convolutional networks&nbsp;[</span><a target="_blank" target="_blank" href="http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
+- [2016-CVPR]Multi-oriented text detection with fully convolutional networks[[Paper]](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
 <p style="margin:0in"><img src="http://img.blog.csdn.net/20161112145736632" alt=""><br>
 </p>
 - [2015-TPRMI]Real-time Lexicon-free Scene Text Localization and Recognition[</span><a target="_blank" target="_blank" href="http://ieeexplore.ieee.org/document/7313008/?reload=true&amp;arnumber=7313008"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
