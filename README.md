@@ -287,7 +287,3 @@
  [</span><a target="_blank" target="_blank" href="http://blog.xlvector.net/2016-05/mxnet-ocr-cnn/"><span lang="en-US" style="font-weight:bold; background:#F2EDE1">blog</span></a><span lang="en-US" style="font-weight:bold; background:#F2EDE1">]</span></p>
 - IAm Robot: (Deep) Learning to Break Semantic Image CAPTCHAs [</span><a target="_blank" target="_blank" href="http://www.cs.columbia.edu/~polakis/papers/sivakorn_eurosp16.pdf"><span style="font-weight:bold; background:#F2EDE1">paper</span></a><span style="font-weight:bold; background:#F2EDE1">]</span></p>
 
-
-### Referrences
-- [http://handong1587.github.io/deep_learning/2015/10/09/ocr.html](http://handong1587.github.io/deep_learning/2015/10/09/ocr.html)
-- [https://github.com/chongyangtao/Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
