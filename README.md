@@ -40,6 +40,23 @@
 - [2010-CVPR]Detecting Text in Natural Scenes with Stroke Width Transform [[Paper]](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf)
 
 ### Scene Text Recognition
+- [2017-ICCV] WeText: Scene Text Detection under Weak Supervision [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)
+- [2017-ICCV] Single Shot Text Detector with Regional Attention [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf) [[Code]](https://github.com/BestSonny/SSTD)
+- [2017-ICCV] Self-organized Text Detection with Minimal Post-processing via Border Learning [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf)
+- [2017-ICCV] Focusing Attention: Towards Accurate Text Recognition in Natural Images [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf)
+- [2017-ICCV] Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
+- [2017-CVPR] Unambiguous Text Localization and Retrieval for Cluttered Scenes [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf)
+- [2017-ICCV] WordSup: Exploiting Word Annotations for Character based Text Detection [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf)
+- [2017-ICCV] Deep TextSpotter: An End-to-End Trainable Scene Text Localization and
+Recognition Framework [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) [[Code]](https://github.com/MichalBusta/DeepTextSpotter)
+- [2017-arXiv] Cascaded Segmentation-Detection Networks for Word-Level Text Spotting [[Paper]](https://arxiv.org/abs/1704.00834)
+- [2017-AAAI] Detection and Recognition of Text Embedding in Online Images via Neural Context Models [[Paper]](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwj0o9Cfqc3SAhVIXLwKHeSLABQQFggfMAE&url=https%3a%2f%2fraw%2egithubusercontent%2ecom%2fcmkang%2fCTSN%2fmaster%2faaai2017_cameraready%2epdf&usg=AFQjCNHcFvXZ0TDWnGnl20LD98V3LWxpbA) [[Code]](https://github.com/cmkang/CTSN)
+- [2017-arXiv] Improving Text Proposal for Scene Images with Fully Convolutional Networks [[Paper]](https://arxiv.org/abs/1702.05089)
+- [2017-AAAI] TextBoxes: A Fast TextDetector with a Single Deep Neural Network [[Paper]](https://arxiv.org/abs/1611.06779) [[Code]](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github 代码`](https://github.com/bgshih/crnn)
+- [2017-CVPR] Detecting Oriented Text in Natural Images by Linking Segments [[Paper]](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
+- [2017-arXiv] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [[Paper]](https://arxiv.org/abs/1703.01086)
+- [2017-CVPR] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [[Paper]](https://arxiv.org/abs/1703.01425)
+- [2016-arXiv] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [[Paper]](http://arxiv.org/abs/1605.07314)
 - [2017-arvix ] Full-Page TextRecognition : Learning Where to Start and When to Stop https://arxiv.org/pdf/1704.08628.pdf
 - [2016-AAAI]Reading Scene Text in Deep Convolutional Sequences [[Paper]](http://whuang.org/papers/phe2016_aaai.pdf)
 - [2016-IJCV]Reading Text in the Wild with Convolutional Neural Networks [[Paper]](http://arxiv.org/abs/1412.1842) http://zeus.robots.ox.ac.uk/textsearch/#/search/ http://www.robots.ox.ac.uk/~vgg/research/text
@@ -53,10 +70,18 @@
 - [2014-TIP] A Unified Framework for Multi-Oriented Text Detection and Recognition
 - [2012-ICPR]End-to-End Text Recognition with Convolutional Neural Networks [[Paper]](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf)  http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar http://ufldl.stanford.edu/housenumbers/
 
-# Text Detection
+### Phd Thesis
+- [2016-PhD Thesis] Context Modeling for Semantic Text Matching and Scene Text Detection [[Paper]](https://etda.libraries.psu.edu/catalog/zw12z528p)
+- [2015-PhD Thesis] Deep Learning for Text Spotting
+ [[Paper]](http://www.robots.ox.ac.uk/~vgg/publications/2015/Jaderberg15b/jaderberg15b.pdf)
+- [2012-PhD thesis] End-to-End Text Recognition with Convolutional Neural Networks [[Paper]](http://cs.stanford.edu/people/dwu4/HonorThesis.pdf)
+
+### Text Detection
 - [2018-arxiv] TextBoxes++: A Single-Shot Oriented Scene Text Detector [[Paper]](https://arxiv.org/pdf/1801.02765.pdf)
 
 ### Dataset
+[`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`
+
 [COCO-Text (ComputerVision Group, Cornell) 2016](http://vision.cornell.edu/se3/coco-text/)
 -  63,686images, 173,589 text instances, 3 fine-grained text attributes.
 - Task:text location and recognition
@@ -133,6 +158,15 @@
 - [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/) [[github]](https://github.com/matthewearl/deep-anpr)
 - [Using deep learning to break a Captcha system](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/) [`report`](http://web.stanford.edu/~jurafsky/burszstein_2010_captcha.pdf) [[github]](https://github.com/arunpatala/captcha)
 - [Breaking reddit captcha with 96% accuracy](https://deepmlblog.wordpress.com/2016/01/05/breaking-reddit-captcha-with-96-accuracy/) [[github]](https://github.com/arunpatala/reddit.captcha)
+
+## Online Service
+
+| Name | Description |
+|---|----
+|[Online OCR](https://www.onlineocr.net/)| API，Free |
+|[Free OCR](http://www.free-ocr.com/)| API，Free |
+|[New OCR](http://www.newocr.com/)| API，Free |
+|[ABBYY FineReader Online](https://finereaderonline.com)| nonAPI，free |
 
 
 ### Open Resources Code
