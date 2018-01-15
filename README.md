@@ -53,6 +53,9 @@
 - [2014-TIP] A Unified Framework for Multi-Oriented Text Detection and Recognition
 - [2012-ICPR]End-to-End Text Recognition with Convolutional Neural Networks [[Paper]](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf)  http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar http://ufldl.stanford.edu/housenumbers/
 
+# Text Detection
+- [2018-arxiv] TextBoxes++: A Single-Shot Oriented Scene Text Detector [[Paper]](https://arxiv.org/pdf/1801.02765.pdf)
+
 ### Dataset
 [COCO-Text (ComputerVision Group, Cornell) 2016](http://vision.cornell.edu/se3/coco-text/)
 -  63,686images, 173,589 text instances, 3 fine-grained text attributes.
