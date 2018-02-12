@@ -6,6 +6,7 @@
 - [2014-Front.Comput.Sci] Scene Text Detection and Recognition: Recent Advances and Future Trends [`paper`](http://mc.eistar.net/uploadfiles/Papers/FCS_TextSurvey_2015.pdf)
 
 ## Scene Text Understanding
+- [2018-AAAI] SEE: Towards Semi-Supervised End-to-End Scene Text Recognition [[Paper]](https://arxiv.org/abs/1712.05404)
 - [2017-arxiv] Attention-based Extraction of Structured [[Paper]](https://arxiv.org/pdf/1704.03549.pdf)
 - [2017-ICCV]Single Shot TextDetector with Regional Attention [[Paper]](https://arxiv.org/pdf/1709.00138.pdf)
 - [2017-ICCV]WordSup: Exploiting Word Annotations for Character based Text Detection [[Paper]](https://arxiv.org/pdf/1708.06720.pdf)
