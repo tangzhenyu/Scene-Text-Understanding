@@ -8,7 +8,7 @@ Connectionist Text Proposal Network, ECCV, 2016.](https://arxiv.org/abs/1609.036
 - [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](http://arxiv.org/abs/1507.05717)
 
 ## Data:
-- Text detection model are downloaded from [CTPN](https://github.com/tianzhi0549/CTPN)
+- Text detection model are downloaded from [CTPN](https://github.com/tangzhenyu/Scene-Text-Understanding/edit/master/ctpn_crnn_ocr/CTPN)
 - Using generated chinese character by using [code](https://github.com/tangzhenyu/Scene-Text-Understanding/tree/master/SynthText_Chinese) to train crnn model.
 
 ## Required:
