@@ -4,6 +4,7 @@
 
 - [2015-PAMI] Text Detection and Recognition in Imagery: A Survey [`paper`](http://lampsrv02.umiacs.umd.edu/pubs/Papers/qixiangye-14/qixiangye-14.pdf)
 - [2014-Front.Comput.Sci] Scene Text Detection and Recognition: Recent Advances and Future Trends [`paper`](http://mc.eistar.net/uploadfiles/Papers/FCS_TextSurvey_2015.pdf)
+- [2020-Arxiv] Text Recognition in the Wild: A survey[`paper`](https://arxiv.org/pdf/2005.03492.pdf)
 
 ## Scene Text Detection
 - [2019-CVPR] Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation [[`paper`]](https://arxiv.org/abs/1905.05980)
@@ -201,6 +202,8 @@ Recognition Framework [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 
 ### Open Resources Code
+- 本项目基于yolo3 与crnn 实现中文自然场景文字检测及识别 [[code]](https://github.com/chineseocr/chineseocr)
+- 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M [[code]](https://github.com/ouyanghuiyu/chineseocr_lite)
 - Tesseract c++ based tools for documents analysis and OCR [[code]](https://github.com/tesseract-ocr/tesseract)
 - Ocropy</span><span style="background:#F2EDE1">: Python-based tools for document analysis and OCR https://github.com/tmbdev/ocropy
 - CLSTM A small implementation of LSTM networks,focused on OCR https://github.com/tmbdev/clstm
